@@ -8,7 +8,7 @@ main(int argc, char** argv)
   std::cout << "Your name:";
   getline(cin, str);
   std::cout << "Hello world " << str
-            << endl; // program will say "hello,world,(your name)"
+            << endl; // программа скажет Привет
 
   return 1;
 }
