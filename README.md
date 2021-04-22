@@ -6,7 +6,7 @@ $ cd YPushkareeev/workspace/projects //создаем директорию с э
   
   $ git init //создаем локальный репозиторий
   
-  Вывод: Initialized empty Git repository in /home/snoreoh/snoreoh/workspace/projects/lab02.1/.git/ 
+  Вывод: Initialized empty Git repository in /home/YPushkareeev/P\YPushkareeev/workspace/projects/lab02.1/.git/ 
   
   $ git remote add origin https://github.com/snoreoh/lab02.1.git  //устанавливаем подключение к удаленному репоззиторию 
   
